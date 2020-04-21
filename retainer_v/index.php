@@ -104,11 +104,7 @@ $ready_time = ($ready_time_end - $ready_time_begin);
     <hr size="1">
     <pre>記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。</pre>
     <pre>Copyright (C) 2010 - 2020 SQUARE ENIX CO., LTD. All Rights Reserved. </pre>
-    <pre style="font-size: small">Copyright (C) 2020 - 2020 Misumi/delta-t.work All Rights Reserved. </pre>
-    <p style="font-size: small">連絡先(Mastodon): <a href="https://taruntarun.net/@d_time" target="_blank">@d_time@taruntarun.net</a>
-    </p>
-    <p style="font-size: small">連絡先(FF14): Del'ta Nelhah@Chocobo (ManaDC)</p>
-    <hr size="1">
+    Git: <a href="https://github.com/Delta-Time/ff14_tools/"><pre>https://github.com/Delta-Time/ff14_tools/</pre></a>
     <pre style="color: gray">処理時間: <?php echo htmlspecialchars(number_format($ready_time, 3)); ?>sec.</pre>
 </div>
 </body>
